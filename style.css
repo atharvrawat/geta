@@ -1,0 +1,22 @@
+body{
+    background-color: darkgrey;
+    color: black;
+}
+.heading{
+ width: 80%;   
+   font-size: 25px;
+   border-radius: 20px; 
+}
+.name_of_objects{
+    font-size: 18px;
+    color: darkgreen;
+}
+#Camera{
+  border:2px solid black ; 
+  width: 350px;
+  height: 300px; 
+}
+#result_object_name,#result_object_accuracy{
+ color: darkslategrey;   
+
+}
